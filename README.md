@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đăng</h1>
 <h3 align="center">Information Technology student at VNU-UET, passionate about Java Backend Development</h3>
 
-- 🔭 I’m currently working on [TicketRush - Event Ticket Booking Platform](https://github.com/DangKhuat00/TicketRush)
+- 🔭 I’m currently working on [TicketRush - Event Ticket Booking Platform](https://github.com/tunglamp08072005/TicketRush.git)
 
 - 🌱 I’m currently learning **Spring Security, Redis, Docker**
 
